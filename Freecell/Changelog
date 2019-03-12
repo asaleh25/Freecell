@@ -1,0 +1,2 @@
+Modified the Controller javadoc to be more informative.
+Abstracted move method to remove code duplication
